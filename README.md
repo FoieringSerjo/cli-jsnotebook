@@ -1,1 +1,7 @@
-## npm start will run the app.
+## Getting Started
+
+First, run the CLI:
+
+```terminal
+npm start
+```
